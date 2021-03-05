@@ -72,7 +72,7 @@
 
 <table align="left"><tr>
   <td align="center" valign="top">
-    <img src="https://glyphwiki.org/glyph/u661f.svg" alt=	彗 height=50px>
+    <img src="https://glyphwiki.org/glyph/u5f57.svg" alt=	彗 height=50px>
     <br>すい<br><br>
     <img src="https://glyphwiki.org/glyph/u7bf2.svg" alt=篲 height=24px>
   </td>
