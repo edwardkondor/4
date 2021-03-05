@@ -41,3 +41,21 @@
     呪<ruby>詛<rt>そ</rt></ruby>　curse<br>
   </td>
 </tr></table>
+
+<table align="left"><tr>
+  <td align="center" valign="top">
+    <img src="https://glyphwiki.org/glyph/u8b77.svg" alt=護 height=50px>
+    <br>ご<br><br>
+    <img src="https://glyphwiki.org/glyph/u62a4.svg" alt=护 height=24px>
+  </td>
+  <td>
+    <b>まも</b>る　protect<br><br>
+    <ruby>保<rt>ほ</rt></ruby>護　protection<br>
+    <ruby>看<rt>かん</rt></ruby>護　nurse<br>
+    護<ruby>衛<rt>ゑい</rt></ruby>　escort<br>
+  </td>
+</tr></table>
+
+
+
+
