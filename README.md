@@ -70,4 +70,22 @@
   </td>
 </tr></table>
 
+<table align="left"><tr>
+  <td align="center" valign="top">
+    <img src="https://glyphwiki.org/glyph/u661f.svg" alt=	彗 height=50px>
+    <br>すい<br><br>
+    <img src="https://glyphwiki.org/glyph/u7bf2.svg" alt=篲 height=24px>
+  </td>
+  <td>
+    <b>ほうき</b>　broom<br><br>
+    彗<ruby>星<rt>せい</rt></ruby>　comet<br>
+    (彗<ruby>掃<rt>そう</rt></ruby>星)　sweep<br>
+    <br>
+    <br>
+  </td>
+</tr></table>
+
+
+
+
 
