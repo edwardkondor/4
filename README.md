@@ -79,7 +79,7 @@
   <td>
     <b>ほうき</b>　broom<br><br>
     彗<ruby>星<rt>せい</rt></ruby>　comet<br>
-    (彗<ruby>掃<rt>そう</rt></ruby>星)　sweep<br>
+    (彗<ruby>掃<rt>そう</rt></ruby>)　sweep<br>
     <br>
     <br>
   </td>
