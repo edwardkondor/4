@@ -49,9 +49,10 @@
     <img src="https://glyphwiki.org/glyph/u62a4.svg" alt=护 height=24px>
   </td>
   <td>
-    <b>まも</b>る　protect<br><br>
+    <b>まも</b>る　protect<br>
     <ruby>保<rt>ほ</rt></ruby>護　protection<br>
     <ruby>看<rt>かん</rt></ruby>護　nurse<br>
+    <ruby>擁<rt>よう</rt></ruby>護　defend<br>
     護<ruby>衛<rt>ゑい</rt></ruby>　escort<br>
   </td>
 </tr></table>
