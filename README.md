@@ -52,8 +52,7 @@
     <b>まも</b>る　protect<br><br>
     <ruby>保<rt>ほ</rt></ruby>護　protection<br>
     <ruby>看<rt>かん</rt></ruby>護　nurse<br>
-    <ruby>擁<rt>よう</rt></ruby>護　defend<br>
-    護<ruby>衛<rt>ゑい</rt></ruby>　escort<br>
+    護<ruby>衛<rt>ゑい</rt></ruby>　escort<br><br>
   </td>
 </tr></table>
 
