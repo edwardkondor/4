@@ -56,6 +56,18 @@
   </td>
 </tr></table>
 
-
+<table align="left"><tr>
+  <td align="center" valign="top">
+    <img src="https://glyphwiki.org/glyph/u661f.svg" alt=星 height=50px>
+    <br>せい&#x309A;<br><br>
+  </td>
+  <td>
+    <b>ほし</b>　star<br><br>
+    星<ruby>座<rt>ざ</rt></ruby>　constellation<br>
+    <ruby>惑<rt>わく</rt></ruby>星　planet<br>
+    <ruby>衛<rt>ゑい</rt></ruby>護　satellite<br>
+    <br>
+  </td>
+</tr></table>
 
 
