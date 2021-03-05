@@ -65,7 +65,7 @@
     <b>ほし</b>　star<br><br>
     星<ruby>座<rt>ざ</rt></ruby>　constellation<br>
     <ruby>惑<rt>わく</rt></ruby>星　planet<br>
-    <ruby>衛<rt>ゑい</rt></ruby>護　satellite<br>
+    <ruby>衛<rt>ゑい</rt></ruby>星　satellite<br>
     <br>
   </td>
 </tr></table>
