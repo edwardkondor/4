@@ -1,1 +1,1 @@
-# 4
+<kbd>しゅゔ</kbd> <kbd><img src="https://glyphwiki.org/glyph/u8972.svg" alt="襲" height="26"></kbd>　**おそ**う attack.　　　襲撃<kbd>しゅゔ<br>げき</kbd> raid.　逆襲<kbd>ぎゃく<br>しゅゔ</kbd> counterstrike.　踏襲<kbd>たゔ<br>しゅゔ</kbd> follow suit.　奇襲<kbd>き<br>しゅゔ</kbd> surprise attack.　
