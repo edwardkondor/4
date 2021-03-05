@@ -1,7 +1,7 @@
 <table align="left"><tr>
   <td align="center" valign="top">
     <img src="https://glyphwiki.org/glyph/u52d9.svg" alt=務 height=50px>
-    <br>ム<br><br>
+    <br>む<br><br>
     <img src="https://glyphwiki.org/glyph/u52a1.svg" alt=务 height=24px>
     <img src="https://glyphwiki.org/glyph/u6544.svg" alt=敄 height=24px>
   </td>
@@ -16,7 +16,7 @@
 <table align="left"><tr>
   <td align="center" valign="top">
     <img src="https://glyphwiki.org/glyph/u9727.svg" alt=霧 height=50px>
-    <br>ム<br><br>
+    <br>む<br><br>
     <img src="https://glyphwiki.org/glyph/u96fe.svg" alt=雾 height=24px>
     <img src="https://glyphwiki.org/glyph/u971a.svg" alt=霚 height=24px> 
   </td>
