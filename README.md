@@ -17,6 +17,9 @@
     <img src="https://glyphwiki.org/glyph/u9727.svg" alt=霧 height=50px>
     <br>ム<br><br>
     <img src="https://glyphwiki.org/glyph/u96fe.svg" alt=雾 height=24px>
+    <img src="https://glyphwiki.org/glyph/u71A.svg" alt=霚 height=24px> 
+    9
+    
   <td>
     <b>きり</b> fog<br><br> 
     <ruby>噴<rt>ふん</rt></ruby>霧　spray<br>
