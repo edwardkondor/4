@@ -31,7 +31,7 @@
 <table align="left"><tr>
   <td align="center" valign="top">
     <img src="https://glyphwiki.org/glyph/u546a.svg" alt=呪 height=50px>
-    <br>ム<br><br>
+    <br>じゅ<br><br>
     <img src="https://glyphwiki.org/glyph/u5492.svg" alt=咒 height=24px>
   </td>
   <td>
